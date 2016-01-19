@@ -57,7 +57,7 @@
                         </GridPane>
                         <Button layoutX="229.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleDeletePerson" style="-fx-background-color: #A0B4F0;" text="Borrar" />
                         <Button layoutX="158.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleEditPerson" style="-fx-background-color: #A0B4F0;" text="Edtar" />
-                        <Button layoutX="82.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleNewPerson" style="-fx-background-color: #A0B4F0;" text="Nuevo" />
+                        <Button layoutX="82.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleNewPerson" style="-fx-background-color: #A0B4F0;" text="Nuevo" textFill="#1e1d1d" />
                      </children>
                   </AnchorPane>
               </items>

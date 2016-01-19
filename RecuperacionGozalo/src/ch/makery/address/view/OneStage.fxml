@@ -58,7 +58,6 @@
                         <Button layoutX="212.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleDeletePerson" style="-fx-background-color: #A0B4F0;" text="Borrar" />
                         <Button layoutX="136.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleEditPerson" style="-fx-background-color: #A0B4F0;" text="Edtar" />
                         <Button layoutX="44.0" layoutY="359.0" mnemonicParsing="false" onAction="#handleNewPerson" style="-fx-background-color: #A0B4F0;" text="Nuevo" />
-                        <Button layoutX="243.0" layoutY="11.0" mnemonicParsing="false" style="-fx-background-color: #A0B4F0;" text="Exit" />
                      </children>
                   </AnchorPane>
               </items>
